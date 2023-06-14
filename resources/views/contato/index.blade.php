@@ -8,7 +8,7 @@
         </div>
         <ul class="app-breadcrumb breadcrumb">
           <li class="breadcrumb-item"><i class="fa fa-home fa-lg"></i></li>
-          <li class="breadcrumb-item"><a href="/">Página Inicial</a></li>
+          <li class="breadcrumb-item"><a href="/home">Página Inicial</a></li>
         </ul>
       </div>
       <div class="row">
