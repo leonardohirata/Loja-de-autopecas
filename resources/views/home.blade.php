@@ -5,9 +5,9 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <a href="/produto"><i class="fa fa-cog fa-lg"></i> Cadastro de produtos</a></br>
-            <a href="/produto"><i class="fa fa-cog fa-lg"></i> Cadastro de clientes</a></br>
-            <a href="/produto"><i class="fa fa-cog fa-lg"></i> Cadastro de Comentarios</a></br>
-            <a href="/produto"><i class="fa fa-cog fa-lg"></i> Consulta de contatos</a></br>
+            <a href="/cliente"><i class="fa fa-cog fa-lg"></i> Cadastro de clientes</a></br>
+            <a href="/comentario"><i class="fa fa-cog fa-lg"></i> Cadastro de Comentarios</a></br>
+            <a href="/contato"><i class="fa fa-cog fa-lg"></i> Consulta de contatos</a></br>
             <div class="card">
                 <div class="card-header">{{ __('Dashboard') }}</div>
 
